@@ -33,6 +33,12 @@ python apply_patch.py <original_file> <patch_file>
 python apply_patch.py slump.svg svg_patches/slump_metroid.svg.patch
 ```
 
+## list of current patches
+
+### slump_metroid
+adds a lil cute metroid to the voltage synth!
+[slump_metroid preview](previews/slump_metroid.jpg)
+
 ## disclaimer
 this project is not affiliated with teenage engineering. all intellectual property rights for the original svg files remain with teenage engineering.
 
