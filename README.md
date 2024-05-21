@@ -2,7 +2,7 @@
 collection of custom op1 svgs!
 
 ## about
-welcome to op1-svg-haven! this repo contains a collection of svg patches to apply for the op-1! since i cannot host original intellectual property, there are patch files to apply changes to the original svgs.
+welcome to op1-svg-haven! this repo contains a collection of svg patches to apply for the op-1! since i cannot host original intellectual property, there are patch files to apply changes to the original svgs (which you can perhaps extract from some sort of firmware?).
 
 ## how to use
 
