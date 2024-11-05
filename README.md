@@ -21,16 +21,16 @@ python generate_patch.py <original_file> <modified_file>
 ```
 
 ### applying a patch file
-to apply a patch file, use the `apply_patch.py` script. this script requires the paths to the original svg file and the patch file.
+to apply a patch file, use the `patch_svg.py` script. this script requires the paths to the original svg file and the patch file.
 
 #### command:
 ```bash
-python apply_patch.py <original_file> <patch_file>
+python patch_svg.py <original_file> <patch_file>
 ```
 
 #### example:
 ```bash
-python apply_patch.py slump.svg svg_patches/slump_metroid.svg.patch
+python patch_svg.py slump.svg svg_patches/slump_metroid.svg.patch
 ```
 
 ## list of current patches
@@ -38,6 +38,10 @@ python apply_patch.py slump.svg svg_patches/slump_metroid.svg.patch
 ### slump_metroid
 adds a lil cute metroid to the voltage synth!
 ![slump_metroid preview](previews/slump_metroid.jpg)
+
+### bode_fox
+replaces the cow in the cwo effect with a fox :3
+![bode_fox preview](previews/bode_fox.jpg)
 
 ## disclaimer
 this project is not affiliated with teenage engineering. all intellectual property rights for the original svg files remain with teenage engineering.
