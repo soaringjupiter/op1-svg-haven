@@ -41,7 +41,7 @@ adds a lil cute metroid to the voltage synth!
 
 ### bode_fox
 replaces the cow in the cwo effect with a fox :3
-![bode_fox preview](previews/bode_fox.jpg)
+![bode_fox preview](previews/bode_fox.png)
 
 ## disclaimer
 this project is not affiliated with teenage engineering. all intellectual property rights for the original svg files remain with teenage engineering.
